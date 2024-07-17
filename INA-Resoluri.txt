@@ -2,3 +2,5 @@
 -mempelajari Node JS
 -mempelajari Mempelajari Next JS
 membuat Proyect Pertama
+-Mepelajari Data Base
+-Mempelajari PHP dan Pyeton
