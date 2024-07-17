@@ -1,2 +1,2 @@
 # INA-Resolusi
-tunutk meyimpan rencana ku kedepanya
+Hal-Hal yang sudah aku buat
