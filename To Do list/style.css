@@ -1,0 +1,61 @@
+*,html {
+    margin: 0;
+    padding: 0;
+}
+body{
+    display: grid;
+    justify-content: center;
+    align-items: center;
+}
+.Make{
+    width: 700px;
+    text-align: center;
+    font-size: 30px;
+    font-weight: 600;
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 10px;
+    padding: 10px;
+    border-radius: 8px;
+}
+#listName{
+    width: 300px;
+    font-size: 16px;
+    font-weight: 500;
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 5px;
+    margin: 5px;
+    border-radius: 8px;
+
+}
+#containerList{
+    width: 700px;
+    margin: 10px;
+    padding: 10px;
+    border-radius: 8px;
+    justify-content: start;
+    align-items: start;
+border: 1px solid black;}
+ul#list{
+    border: 1px solid black;
+    align-items: center;
+} 
+li{
+    overflow:auto;
+    width: 600px;
+    height: 20px;
+    margin: 10px;
+    padding: 10px;
+    border-radius: 8px;
+    border: 1px solid red;
+}
+ul button{
+    float: right;
+    margin: 2px;
+    padding: 3px;
+    border-radius: 5px;
+    height: 20px;
+}
+button:hover{
+    opacity: 0.5;
+    cursor: pointer;
+}
