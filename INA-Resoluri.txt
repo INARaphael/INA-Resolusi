@@ -4,3 +4,4 @@
 membuat Proyect Pertama
 -Mepelajari Data Base
 -Mempelajari PHP dan Pyeton
+-mempelajari JAVA
