@@ -1,0 +1,4 @@
+-mempulajari Javascript 
+-mempelajari Node JS
+-mempelajari Mempelajari Next JS
+membuat Proyect Pertama
